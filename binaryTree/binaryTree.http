@@ -1,0 +1,6 @@
+@binaryTree_HostAddress = http://localhost:5244
+
+GET {{binaryTree_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
